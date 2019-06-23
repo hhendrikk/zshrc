@@ -12,3 +12,10 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 HaskLig
 
 # Install Zjump
+https://github.com/rupa/z
+
+# Install NVM
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+```
+# Import themes iterm2
